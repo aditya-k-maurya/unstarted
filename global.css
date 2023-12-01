@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #e13690;
+    --secondary-color: #ffffff;
+  }
+
+.container{
+    max-width: 1200px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
